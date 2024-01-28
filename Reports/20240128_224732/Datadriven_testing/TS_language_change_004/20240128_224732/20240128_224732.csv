@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_language_change_004,Chrome 120.0.0.0,,,28-01-2024 22:47:40,28-01-2024 22:49:12,1m - 32.027s,PASSED
+,,,,,,,
+Test Cases/Datadriven_testing/TC_language_change_004,Chrome 120.0.0.0,,,28-01-2024 22:47:41,28-01-2024 22:48:11,30.379s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,28-01-2024 22:47:41,28-01-2024 22:47:45,3.343s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,28-01-2024 22:47:45,28-01-2024 22:48:05,20.689s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Online Shopping site in India Shop Onl_10c5f3/div_EN""))",Chrome 120.0.0.0,,,28-01-2024 22:48:05,28-01-2024 22:48:09,3.726s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/"" + language))",Chrome 120.0.0.0,,,28-01-2024 22:48:09,28-01-2024 22:48:10,1.450s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/input_a-button-input""))",Chrome 120.0.0.0,,,28-01-2024 22:48:10,28-01-2024 22:48:11,0.551s,PASSED
+,,,,,,,
+Test Cases/Datadriven_testing/TC_language_change_004,Chrome 120.0.0.0,,,28-01-2024 22:48:11,28-01-2024 22:48:36,24.906s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,28-01-2024 22:48:11,28-01-2024 22:48:13,1.648s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,28-01-2024 22:48:13,28-01-2024 22:48:31,17.769s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Online Shopping site in India Shop Onl_10c5f3/div_EN""))",Chrome 120.0.0.0,,,28-01-2024 22:48:31,28-01-2024 22:48:34,3.084s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/"" + language))",Chrome 120.0.0.0,,,28-01-2024 22:48:34,28-01-2024 22:48:35,1.366s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/input_a-button-input""))",Chrome 120.0.0.0,,,28-01-2024 22:48:35,28-01-2024 22:48:36,0.998s,PASSED
+,,,,,,,
+Test Cases/Datadriven_testing/TC_language_change_004,Chrome 120.0.0.0,,,28-01-2024 22:48:36,28-01-2024 22:49:01,25.345s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,28-01-2024 22:48:36,28-01-2024 22:48:38,1.626s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,28-01-2024 22:48:38,28-01-2024 22:48:56,18.029s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Online Shopping site in India Shop Onl_10c5f3/div_EN""))",Chrome 120.0.0.0,,,28-01-2024 22:48:56,28-01-2024 22:48:59,3.585s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/"" + language))",Chrome 120.0.0.0,,,28-01-2024 22:48:59,28-01-2024 22:49:01,1.397s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/input_a-button-input""))",Chrome 120.0.0.0,,,28-01-2024 22:49:01,28-01-2024 22:49:01,0.669s,PASSED
+,,,,,,,
+Test Cases/Datadriven_testing/TC_language_change_004,Chrome 120.0.0.0,,,28-01-2024 22:49:01,28-01-2024 22:49:12,10.937s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,28-01-2024 22:49:01,28-01-2024 22:49:03,1.564s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,28-01-2024 22:49:03,28-01-2024 22:49:08,4.586s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Online Shopping site in India Shop Onl_10c5f3/div_EN""))",Chrome 120.0.0.0,,,28-01-2024 22:49:08,28-01-2024 22:49:10,2.400s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/"" + language))",Chrome 120.0.0.0,,,28-01-2024 22:49:10,28-01-2024 22:49:11,1.266s,PASSED
+"click(findTestObject(""Object Repository/language/Page_Change Language Settings/input_a-button-input""))",Chrome 120.0.0.0,,,28-01-2024 22:49:11,28-01-2024 22:49:12,1.084s,PASSED

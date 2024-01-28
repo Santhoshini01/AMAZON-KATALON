@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_delivery_address</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/deliveryaddress_testdata_003</source-url>
+   </source-info>
+   <taken-date>2024-01-28T22:25:26.158+05:30</taken-date>
+   <column-names>
+      <column-name>pincode</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "533291",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "533294",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "533201",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "505101",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
